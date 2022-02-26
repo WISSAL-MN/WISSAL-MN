@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with : Latex ,API
 - 💬 Ask me about : HTML ,CSS ,XML
 - 📫 How to reach me: wissalmanseri@gmail.com
-- 😄 Pronouns: anecdote
+- 😄 Pronouns: mine
 - ⚡ fun fact actually really: coffee
 
