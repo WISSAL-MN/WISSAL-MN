@@ -19,3 +19,5 @@
 - ⚡ fun fact actually really: coffee
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WISSAL-MN&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WISSAL-MN&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WISSAL-MN&langs_count=8)](https://github.com/WISSAL-MN/github-readme-stats)
