@@ -18,3 +18,5 @@
 - 😄 Pronouns: mine
 - ⚡ fun fact actually really: coffee
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=
+ &theme=radical)
