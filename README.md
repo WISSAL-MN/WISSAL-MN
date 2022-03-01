@@ -1,7 +1,12 @@
- Hi there 👋, MANSERI WISSAL 20Y.O
-
+ Hi there 👋, MANSERI WISSAL 20 Y.O
+ Développeuse web 
+****                             ***
 ✨ Computer Science Student (UMAB - FSEI)
+
+✨ Backend Developer
+
 ✨ Linux Lover  
+
 ✨Skills: HTML / CSS / XML / MYSQL / PYTHON 
 ***                                        ***
 - 🔭 I’m currently working on : fake news detection
