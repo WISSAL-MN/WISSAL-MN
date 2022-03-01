@@ -1,15 +1,14 @@
-### Hi there 👋
+ Hi there 👋, MANSERI WISSAL 20Y.O
 
-
-**WISSAL-MN/WISSAL-MN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+✨ Computer Science Student (UMAB - FSEI)
+✨ Linux Lover  
+✨Skills: HTML / CSS / XML / MYSQL / PYTHON 
+***                                        ***
 - 🔭 I’m currently working on : fake news detection
 - 🌱 I’m currently learning : Python ,Dart
-- 👯 I’m looking to collaborate on :fake news detection
+- 👯 I’m looking to collaborate on Any Project :)
 - 🤔 I’m looking for help with : Latex ,API
-- 💬 Ask me about : HTML ,CSS ,XML
+- 💬 Ask me about : HTML ,CSS ,XML ,Django 
 - 📫 How to reach me: wissalmanseri@gmail.com
 - 😄 Pronouns: mine
 - ⚡ fun fact actually really: coffee
