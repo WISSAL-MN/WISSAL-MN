@@ -1,6 +1,6 @@
                               
-<h1 align="center"> Hi there👋, MANSERI WISSAL 20 Y.O</h1>
-<h3 align="center">(Développeuse web ),love writting dev article and share my knowledges</h3>
+<h1 > Hi there👋, MANSERI WISSAL 20 Y.O</h1>
+<h3 >(Développeuse web ),love writting dev article and share my knowledges</h3>
 
 ✨ Computer Science Student (UMAB - FSEI)
 
@@ -14,41 +14,41 @@
 
 ![GitHub Stats](https://github-profile-trophy.vercel.app/?username=WISSAL-MN&no-bg=true)
 
-🔭 I’m currently working on : [détection de fausses nouvelles](https:/ /github.com/WISSAL-MN/fake-news-detection)
+🔭 I’m currently working on : [fake-news-detection](https://github.com/WISSAL-MN/fake-news-detection)
 
-🌱 I’m currently learning : **Python ,Dart ,odoo**
+🌱 I’m currently learning : Python ,Dart ,odoo
 
- 👯  I’m looking to collaborate on : ** Any Project :)**
+ 👯  I’m looking to collaborate on : Any Project :)
  
- 🤝 I’m looking for help with : **Latex ,API**
+ 🤝 I’m looking for help with : Latex ,API
 
- 💬 Ask me about : **HTML ,CSS ,XML ,Django**
+ 💬 Ask me about : HTML ,CSS ,XML ,Django
 
- 📫 How to reach me:**wissalmanseri@gmail.com**
+ 📫 How to reach me:wissalmanseri@gmail.com
 
  😄 Pronouns: mine
 
- ⚡ fun fact : **coffee**
+ ⚡ fun fact : coffee
 
-<h3 align="left">Join me :</h3>
+<h3 align="left"> Join me :</h3>
 <p align="left">
 
   
  <a href="https://instagram.com/wissal_m.n" target="blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wissal_m.n" height="30" width="40" /></a>
 <a href="https://dev.to/wissalmn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator /master/src/images/icons/Social/devto.svg" alt="wissalmn" height="30" width="40" /></a>
-<a href="https://twitter.com/wissal_mn2410 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg " alt="wissal_mn2410" height="30" width="40" /></a>
- <a href="https://linkedin.com/in/wissal manseri" target="blank"><img align= "centre" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wissal manseri" height="18" width="40" /> </a> 
+<a href="https://twitter.com/wissal_mn2410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg " alt="wissal_mn2410" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/feed/" target="blank"><img align= "centre" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wissal manseri" height="18" width="40" /> </a> 
 
 <a href="https://codesandbox.com/wissal-mn" target="blank">
 <img align="center"src="https://user-images.githubusercontent.com/89531771/156276400-144d38d6-fff8-430b-9211-73cd35b228b6.png" alt="wissal-mn" height="30" width="40"/>
 </a>
-<a href="https://fb .com/wïssal mn" target="blank">
+<a href="https://fb.com/wïssalmn" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wïssal mn" height="30" width="40" /></a>
 <a href="https://codepen.io/wissal-mn" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="wissal-mn" height="30" width="40" /></a>
 <a href="https://dribbble.com/wissal-mn" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="wissal-mn" height="30" width="40" /></a>
-<a href="https://www .youtube.com/c/wissal manseri" target="blank">
+<a href="https://www.youtube.com/channel/UCZu8OHcz8yHFbBGf7shM3VQ" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wissal manseri" height="30" width="40" /></a>
 </p>
 
@@ -100,6 +100,8 @@
  <br>
  <br>
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wissal-mn&show_icons=true&locale=en&layout=compact" alt="wissal- mn" /></p>
+ <br>
+ <br>
  <br>
  <br>
  <br>
