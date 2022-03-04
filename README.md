@@ -1,6 +1,7 @@
-                              
-<h1 > Hi there👋, MANSERI WISSAL 20 Y.O</h1>
-<h3 >(Développeuse web ),love writting dev article and share my knowledges</h3>
+
+
+<h1 align="left" > Hi there👋, MANSERI WISSAL 20 Y.O</h1>
+<h3 align="left" >(Développeuse web ),love writting dev article and share my knowledges</h3>
 
 ✨ Computer Science Student (UMAB - FSEI)
 
@@ -10,9 +11,10 @@
 
 ✨Skills: HTML / CSS / XML / PYTHON 
 
-<p align="left "> <img src="https://komarev.com/ghpvc/?username=wissal-mn&label=Profile%20views&color=0e75b6&style=flat" alt="wissal-mn" /> </p>
+<p align="left "> <img src="https://komarev.com/ghpvc/?username=wissal-mn&label=Profile%20views&color=red&style=plastic" alt="wissal-mn" /> </p>
 
 ![GitHub Stats](https://github-profile-trophy.vercel.app/?username=WISSAL-MN&no-bg=true)
+
 
 🔭 I’m currently working on : [fake-news-detection](https://github.com/WISSAL-MN/fake-news-detection)
 
@@ -24,9 +26,9 @@
 
  💬 Ask me about : HTML ,CSS ,XML ,Django
 
- 📫 How to reach me:wissalmanseri@gmail.com
+ 📫 How to reach me : wissalmanseri@gmail.com
 
- 😄 Pronouns: mine
+ 😄 Pronouns : mine
 
  ⚡ fun fact : coffee
 
@@ -42,7 +44,7 @@
 <a href="https://codesandbox.com/wissal-mn" target="blank">
 <img align="center"src="https://user-images.githubusercontent.com/89531771/156276400-144d38d6-fff8-430b-9211-73cd35b228b6.png" alt="wissal-mn" height="30" width="40"/>
 </a>
-<a href="https://fb.com/wïssalmn" target="blank">
+<a href="https://fb.com/wïssal%20mn" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wïssal mn" height="30" width="40" /></a>
 <a href="https://codepen.io/wissal-mn" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="wissal-mn" height="30" width="40" /></a>
@@ -52,13 +54,9 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wissal manseri" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and tools :</ h3>
-
- <br>
- <br>
- <br>
- 
-
+<h3 align="left">top technologie :</ h3>
+<br>
+<br>
 <p align="left">
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons /devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com " target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
@@ -94,12 +92,13 @@
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5" width="40" height="40"/> 
 </a>
 <h3 align="left">Assistance :</h3>
+<br>
 <p> <a href="https://ko-fi.com/WISSAL-MN"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="WISSAL-MN" /></a> </p>
  
  <br>
  <br>
  <br>
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wissal-mn&show_icons=true&locale=en&layout=compact" alt="wissal- mn" /></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wissal-mn&show_icons=true&locale=en&layout=compact&theme=radical" alt="wissal- mn"height="190" width=897"/></p>
  <br>
  <br>
  <br>
@@ -108,7 +107,7 @@
  <br>
  <br>
  <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wissal-mn&" alt= "wissal-mn" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wissal-mn&&theme=radical" alt= "wissal-mn"width=497" /></p>
  <br>
  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WISSAL-MN&theme=radical)
