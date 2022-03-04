@@ -11,7 +11,7 @@
 
 ✨Skills: HTML / CSS / XML / PYTHON 
 
-<p align="left "> <img src="https://komarev.com/ghpvc/?username=wissal-mn&label=Profile%20views&color=red&style=plastic" alt="wissal-mn" /> </p>
+<p align="left "> <img src="https://komarev.com/ghpvc/?username=wissal-mn&label=Profile%20views&color=brightgreen&style=plastic" alt="wissal-mn" /> </p>
 
 ![GitHub Stats](https://github-profile-trophy.vercel.app/?username=WISSAL-MN&no-bg=true)
 
@@ -98,7 +98,7 @@
  <br>
  <br>
  <br>
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wissal-mn&show_icons=true&locale=en&layout=compact&theme=radical" alt="wissal- mn"height="190" width=897"/></p>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wissal-mn&show_icons=true&locale=en&layout=compact&theme=radical" alt="wissal- mn"height="190" /></p>
  <br>
  <br>
  <br>
