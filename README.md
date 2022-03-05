@@ -22,13 +22,13 @@
 
  👯  I’m looking to collaborate on : Any Project :)
  
- 🤝 I’m looking for help with : Latex ,API
+ 🤝 I’m looking for help with : Latex , API
 
  💬 Ask me about : HTML ,CSS ,XML ,Django
 
  📫 How to reach me : wissalmanseri@gmail.com
 
- 😄 Pronouns : mine
+ 😄 Pronouns : Mine/ Yours
 
  ⚡ fun fact : coffee
 
