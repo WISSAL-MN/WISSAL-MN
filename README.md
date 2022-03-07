@@ -1,8 +1,9 @@
 
 
 <h1 align="left" > Hi there👋, MANSERI WISSAL 20 Y.O</h1>
-<h3 align="left" >(Développeuse web ),love writting dev article and share my knowledges</h3>
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=D%C3%A9veloppeuse+web+'WM'&color=%2306161C&size=87&width=1000&height=130)](https://git.io/typing-svg)
 ✨ Computer Science Student (UMAB - FSEI)
 
 ✨ Backend Developer
@@ -10,6 +11,8 @@
 ✨ Linux Lover 
 
 ✨Skills: HTML / CSS / XML / PYTHON 
+
+✨love writting dev article and share my knowledges
 
 <p align="left "> <img src="https://komarev.com/ghpvc/?username=wissal-mn&label=Profile%20views&color=brightgreen&style=plastic" alt="wissal-mn" /> </p>
 
@@ -99,6 +102,7 @@
  <br>
  <br>
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wissal-mn&show_icons=true&locale=en&layout=compact&theme=radical" alt="wissal- mn"height="190" /></p>
+ 
  <br>
  <br>
  <br>
@@ -107,10 +111,23 @@
  <br>
  <br>
  <br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wissal-mn&&theme=radical" alt= "wissal-mn"width=497" /></p>
- <br>
+
  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WISSAL-MN&theme=radical)
 
-
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=wissal-mn&&theme=radical" alt= "wissal-mn"width=497" /></p>
+ 
+<br>
+  <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+<h3 align="left">GitHub Readme Activity Graph:📈</h3>
+<br>
+ 
+ [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=WISSAL-MN&bg_color=141321&color=4c839e&line=f05a0a&point=f5a700&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
