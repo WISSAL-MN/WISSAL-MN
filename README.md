@@ -57,7 +57,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wissal manseri" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">top technologie :</ h3>
+<h3 align="left">Top technologie :</ h3>
 <br>
 <br>
 <p align="left">
@@ -94,7 +94,7 @@
 <a href="https://www.w3.org/html/"target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html5" width="40" height="40"/> 
 </a>
-<h3 align="left">Assistance :</h3>
+<h3 align="left" >Assistance :</h3>
 <br>
 <p> <a href="https://ko-fi.com/WISSAL-MN"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="WISSAL-MN" /></a> </p>
  
@@ -117,17 +117,28 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=wissal-mn&&theme=radical" alt= "wissal-mn"width=497" /></p>
  
-<br>
-  <br>
+
  <br>
  <br>
  <br>
  <br>
  <br>
  <br>
+ 
  <br>
+ 
+ <br>
+ 
+ 
+ 
+ 
+ 
+ 
 <h3 align="left">GitHub Readme Activity Graph:📈</h3>
-<br>
+
  
  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=WISSAL-MN&bg_color=141321&color=4c839e&line=f05a0a&point=f5a700&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+ <h3>   My contribution graph eaten by the snake: 🐍</h3>
+
+ ![snake gif](https://github.com/WISSAL-MN/WISSAL-MN/blob/output/github-contribution-grid-snake.gif)
