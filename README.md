@@ -27,7 +27,8 @@
 
 🔭 I’m currently working on : [fake-news-detection](https://github.com/WISSAL-MN/fake-news-detection)
 
-🌱 I’m currently learning : Python ,Dart ,odoo
+🌱 I’m currently learning : Python ,Dart ,odoo ,
+Mobile App Development
 
  👯  I’m looking to collaborate on : Any Project :)
  
