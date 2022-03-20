@@ -21,7 +21,7 @@
 ✨love writting dev article and share my knowledges
 
 
-<p align="left "> <img src="https://komarev.com/ghpvc/?username=WISSAL-MN&style=plastic" alt="wissal-mn" /> </p>
+<p align="left "> <img src="https://komarev.com/ghpvc/?username=WISSAL-MN&style=plastic&color=yellow" alt="wissal-mn" /> </p>
 
 
 ![GitHub Stats](https://github-profile-trophy.vercel.app/?username=WISSAL-MN&theme=radical)
