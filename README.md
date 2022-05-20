@@ -23,8 +23,14 @@
 
 <p align="left "> <img src="https://komarev.com/ghpvc/?username=WISSAL-MN&style=plastic&color=yellow" alt="wissal-mn" /> </p>
 
+🏆 Github Achievements :
 
-/////
+![GitHub Stats](https://github-profile-trophy.vercel.app/?username=WISSAL-MN&theme=radical)
+
+ <h3 align="left"> 🔎 Github Profile Details :</h3>
+ <br>
+<p align="left"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WISSAL-MN&theme=radical" alt="TopCodeBeast" align = "center"/></p>
+
 
 
 🔭 I’m currently working on : [fake-news-detection](https://github.com/WISSAL-MN/fake-news-detection)
