@@ -175,11 +175,9 @@ alt="Windows" data-canonical-src="https://img.shields.io/badge/-Windows-black?st
  
  
  //TEST
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WISSAL-MN)](https://github.com/anuraghazra/github-readme-stats)
+
  
- 
- 
- 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WUSSAL-MN&show_icons=true&theme=radical)
  
  
  /////
