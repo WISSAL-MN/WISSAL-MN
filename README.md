@@ -72,31 +72,6 @@ Mobile App Development
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wissal manseri" height="30" width="40" /></a>
 </p>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <h3 align="left">Top technologie :</ h3>
 <br>
 <br>
@@ -200,7 +175,7 @@ alt="Windows" data-canonical-src="https://img.shields.io/badge/-Windows-black?st
  
  
  //TEST
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WISSAL-MN&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WISSAL-MN)](https://github.com/anuraghazra/github-readme-stats)
  
  
  
